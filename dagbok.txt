@@ -1,0 +1,7 @@
+Min dag har varit väldigt bra idag eftersom jag har lärt mig mycket nya saker som jag aldrig har jobbat med tidigare. 
+  Jag har lärt mig om hur github fungerar.
+  Jag har lärt mig git init som spårar allt som händer i mappen eller så kan man använda git clone om det redan finns en projekt i github
+  Jag har lärt mig git add =som väljer vad som ska sparas 
+  Jag har lärt mig git commit -m som visar exakta ändringar och m menas att man skriver ett meddelande till sig själv
+  Jag har lärt mig git remote add orgin (url) som berättar att om man ska skicka något till github så är det länken.
+  Jag har lärt mig git push -u orgin main som menas att adressen på föregående punkt sparar kopplingen och skickar till github. 
